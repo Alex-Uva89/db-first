@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top:2rem;
+
+}
+
+.container{
+    width: 800px;
+    height: 100vh;
+    margin: 0 auto;
+
+}
+
+img{
+    width: 100%;
+    margin-top: 5rem;
+    border: 2px solid black;
+}
